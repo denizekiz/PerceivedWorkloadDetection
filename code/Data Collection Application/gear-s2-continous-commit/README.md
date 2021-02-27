@@ -1,4 +1,1 @@
-Accelerometer Sample
-================
-
-A sample application demonstrating the use of the Gear's accelerometer.
+Tizen Data Collection Application
